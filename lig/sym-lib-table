@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "project-parts")(type "KiCad")(uri "${KIPRJMOD}/project-parts.kicad_sym")(options "")(descr ""))
+  (lib (name "luatos-module")(type "Legacy")(uri "${KIPRJMOD}/luatos-broads/luatos-module/luatos-module.lib")(options "")(descr ""))
+)
