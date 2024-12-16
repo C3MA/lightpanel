@@ -1,3 +1,5 @@
+# moved to https://www.ccc-mannheim.de/wiki/Lightpanel
+
 # lightpanel v1.0
 
 ###Import application note
